@@ -13,4 +13,4 @@ A specific case of derivatives are structured product. They are product with suc
 
 The object of this project is to show how to valuate one of those using Python. There will be a strong focus on methology, including model choice, assumptions and Monte Carlo simulation.
 
-[View the PDF documentation](./Quantitative valuation consultant - Assignment.pdf)
+[View the PDF documentation](./Knockout_Barrier_Termsheet.pdf)
