@@ -5,7 +5,7 @@
 
 Derivatives are financial products whose value depends on random quantitative factors varying over time such as a stock price. The "random quantitative factors" influencing the value of a derivative product are commonly called the underlying of the derivative.
 
-Those derivatives need to be valued periodically until their expiration (maturity) to ensure a reliable assesment of their value at a specific date to provide accurate financial statements of the companies that holds them.
+Those derivatives need to be valued periodically until their expiration (maturity) to ensure a reliable assesment of their value at a specific date to provide accurate financial statements of the companies that hold them.
 
 ## Structured Product
 
